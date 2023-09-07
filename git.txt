@@ -1,0 +1,9 @@
+git
+git init
+git add --all
+git commit -m "message"
+git remote add origin https://github.com/w3schools-test/hello-world.git
+git push origin master
+
+ethan796
+pwd123!@#
